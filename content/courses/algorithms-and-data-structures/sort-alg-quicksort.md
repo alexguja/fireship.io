@@ -8,7 +8,6 @@ free: true
 # youtube: MFhxShGxHWc
 emoji: 🎲
 video_length: 4:12
-
 ---
 
 _wip_
